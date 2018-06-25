@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/717-browsh
 x-kinRank: "7"
 x-alexaRank: "1714303"
 tags: Browshot.com
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/browshot-com/master/_listings/browshot-com/apis.md
 specificationVersion: "0.14"
 apis:
