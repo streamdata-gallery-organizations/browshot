@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Browshot",
+	"description": "This is a repository of browshot APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/browshot.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://browshot.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Browshot",
+			"x-api-slug": "browshot",
+			"description": "Browshot is a service to take screenshot of web pages. Use any of our mobile and desktop browsers. We provide a powerful API and libraries.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/717-browshot-com.jpg",
+			"humanURL": "http://browshot.com/",
+			"baseURL": "https://api.browshot.com//api/v1",
+			"tags": "Browshot",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/browshot/master/_listings/browshot/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Browshot",
+	"include": [
+		{
+			"name": "Browshot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/browshot/master/_listings/browshot/apis.yaml"
+		}
+	]
+}
